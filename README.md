@@ -16,4 +16,7 @@ The game features a score system where players can earn points by avoiding obsta
 ## Saving High Scores
 EndlessRunner automatically saves the top three high scores, so players can easily track their progress and try to beat their previous scores.
 
+## Download link to exe build
+https://changemakereducation-my.sharepoint.com/:u:/g/personal/adam_vall_kvick_edu_futuregames_nu/EbMR6VWZXvNInFC05BXEXYoBGF6P1BCIzHNKvgv7UoxRzA?e=2JgatK
+
 We hope that this readme file has provided you with all the necessary information to get started and enjoy playing EndlessRunner. We wish you all the best and hope you have fun playing!
